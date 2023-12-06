@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "diVgFmAqK49i+qgqu7JAAZZ4koqEUe7Q43JNWFIg1xs+b/kXFaprK2AnahNkQhBGguLVTaj0uf8vnIvg4sP26A==",
+  "success": true,
+  "projectFilePath": "/Users/raidymachado/Downloads/Teste-main/Questao1/Questao1.csproj",
+  "expectedPackageFiles": [
+    "/Users/raidymachado/.nuget/packages/microsoft.netcore.app.ref/6.0.25/microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "/Users/raidymachado/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.25/microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "/Users/raidymachado/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.25/microsoft.netcore.app.host.osx-arm64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
